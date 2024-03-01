@@ -12,7 +12,7 @@ import neopixel
 # Configure the setup
 PIXEL_PIN = board.D1  # pin that the NeoPixel is connected to
 ORDER = neopixel.RGB  # pixel color channel order
-COLOR = (100, 50, 150)  # color to blink
+COLOR = (50, 150, 50)  # color to blink
 CLEAR = (0, 0, 0)  # clear (or second color)
 DELAY = 0.25  # blink rate in seconds
 
